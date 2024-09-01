@@ -1,0 +1,11 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 1rem;
+    font-family:monospace;
+    font-size:45px;
+    color: #8595d3;
+
+    
+}

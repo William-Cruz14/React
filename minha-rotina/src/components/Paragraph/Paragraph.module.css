@@ -1,0 +1,11 @@
+.Paragraph {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align:justify;
+    margin: 2rem;
+}
+
+.List {
+    margin-left: 2rem;
+}

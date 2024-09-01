@@ -1,0 +1,6 @@
+.Images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5rem;
+}

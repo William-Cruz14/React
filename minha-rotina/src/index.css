@@ -1,0 +1,14 @@
+:root {
+    --cinza: #EBEBEC;
+    --preto: #272727;
+    --rosa: #F06197;
+    --verde: #36B59F;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

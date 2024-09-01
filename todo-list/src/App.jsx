@@ -1,11 +1,17 @@
+import { Body, Header } from "./components";
 
-import './App.css'
+import "./App.css";
 
 function App() {
-
   return (
-    <h1>Hello World</h1>
-  )
+    <>
+      <Header nomeUsuario="William" />
+      <Body>
+        <h1>Titulo</h1>
+        <p>Teste, teste, teste  ...</p>
+      </Body>
+    </>
+  );
 }
 
-export default App
+export { App };
