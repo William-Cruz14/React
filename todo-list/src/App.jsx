@@ -1,15 +1,17 @@
-import { Body, Header } from "./components";
+import { Body, Header, Footer } from "./components";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <Header nomeUsuario="William" />
+      <Header/>
       <Body>
         <h1>Titulo</h1>
         <p>Teste, teste, teste  ...</p>
       </Body>
+      <Footer criador="William"/>
+
     </>
   );
 }
